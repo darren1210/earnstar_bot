@@ -1,0 +1,1 @@
+# earnstar_bot
